@@ -6,6 +6,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
     <title>Opendag Software Developer</title>
+    <style>
+        .item1 { grid-area: header; }
+        .item2 { grid-area: menu; }
+        .item3 { grid-area: main; }
+        .item5 { grid-area: footer; }
+
+        .grid-container {
+        display: grid;
+        grid-template-areas:
+            'header header'
+            'menu menu'
+            'main main '
+            'footer footer';
+        gap: 10px;
+        background-color: #2196F3;
+        padding: 10px;
+        }
+
+        .grid-container > div {
+        background-color: rgba(255, 255, 255, 0.8);
+        text-align: center;
+        padding: 20px 0;
+        font-size: 30px;
+        }
+    </style>
 </head>
 <!-- The body is the whole page-->
 <body>
