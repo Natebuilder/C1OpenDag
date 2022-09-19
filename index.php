@@ -7,6 +7,7 @@
     <title>Opendag Software Developer</title>
 </head>
 <body>
+    <div class ="layout">
     <header>
 
     </header>
