@@ -11,11 +11,15 @@
     <div class ="layout">
     <header>
         <nav>
-            <a href="#Curio">Curio Opendag Software Developer 350</a>    
+            <div class="Top">
+                <div class="img1"><img src="img/Curio Logo.png" alt="Logo"></div>
+                <a href="#Curio">Opendag Software Developer 350</a>
+            </div>
         </nav>
     </header>
     <main>
         <h1>Welkom op de website van Curio Software Developer editie.</h1>
+        <div class="img2"><img src="img/School.jpg" alt="school"></div>
     </main>
     <footer>
 

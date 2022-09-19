@@ -2,3 +2,14 @@ body{
     max-width: 100%;
     margin: auto;
 }
+.img1 img{
+    max-width: 8%;
+    margin-left:1%;
+}
+.img2 img{
+    max-width: 40%;
+}
+.Top{
+    display: grid;
+    column-gap: 50px;
+}
