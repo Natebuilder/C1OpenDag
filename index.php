@@ -9,10 +9,12 @@
 <body>
     <div class ="layout">
     <header>
-
+        <nav>
+            <a href="#Curio">Curio Opendag Software Developer 350</a>    
+        </nav>
     </header>
     <main>
-        <h1>Welkom</h1>
+        <h1>Welkom op de website van Curio Software Developer editie.</h1>
     </main>
     <footer>
 
