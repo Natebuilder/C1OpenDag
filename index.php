@@ -7,6 +7,15 @@
     <title>Opendag Software Developer</title>
 </head>
 <body>
-    <h1>Welkom</h1>
+    <header>
+
+    </header>
+    <main>
+        <h1>Welkom</h1>
+    </main>
+    <footer>
+
+    </footer>
+    
 </body>
 </html>
