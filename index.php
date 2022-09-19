@@ -27,7 +27,7 @@
     </main>
     <!--This is the footer the bottom and a small part of the website -->
     <footer>
-
+        <p>Copyright| Student: Nathan van den Heuvel |Jaar van maak: 2022</p>
     </footer>
     
 </body>
