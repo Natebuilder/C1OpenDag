@@ -40,10 +40,8 @@
         <div class="part1">
             <header>
                 <nav>
-                    <div class="Top">
-                        <img src="img/Curio Logo.png" alt="Logo">
-                        <a href="#Curio">Opendag Software Developer 350</a>
-                    </div>
+                    <img src="img/Curio Logo.png" alt="Logo">
+                    <a href="#Curio">Opendag Software Developer 350</a>
                 </nav>
             </header>
         </div>
