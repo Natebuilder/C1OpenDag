@@ -41,7 +41,7 @@
             <header>
                 <nav>
                     <div class="Top">
-                        <div class="img1"><img src="img/Curio Logo.png" alt="Logo"></div>
+                        <img src="img/Curio Logo.png" alt="Logo">
                         <a href="#Curio">Opendag Software Developer 350</a>
                     </div>
                 </nav>
@@ -50,14 +50,14 @@
         <!--This is the menu-->
         <div class="part2">
             <menu>
-
+                <h1>menu</h1>
             </menu>
         </div>
             <!--This is the main the mid and biggest part of the website -->
         <div class="part3">
             <main>
                 <h1>Welkom op de website van Curio Software Developer editie.</h1>
-                <div class="img2"><img src="img/School.jpg" alt="school"></div>
+                <img src="img/School.jpg" alt="school">
             </main>
         </div>
             <!--This is the footer the bottom and a small part of the website -->

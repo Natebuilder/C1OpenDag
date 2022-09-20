@@ -2,10 +2,13 @@ body{
     max-width: 100%;
     margin: auto;
 }
-.img1 img{
-    max-width: 8%;
+.top img{
+    max-width: 2%;
     margin-left:1%;
 }
-.img2 img{
-    max-width: 40%;
+main img{
+    max-width: 2%;
+}
+.top{
+    grid-column: 1 / 2;
 }
