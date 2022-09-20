@@ -41,7 +41,7 @@
             <header>
                 <nav>
                     <img src="img/Curio Logo.png" alt="Logo">
-                    <a href="#Curio">Opendag Software Developer 350</a>
+                    <h1>Opendag Software Developer 350</h1>
                 </nav>
             </header>
         </div>
@@ -49,6 +49,7 @@
         <div class="part2">
             <menu>
                 <h1>menu</h1>
+                <a href="#blok">Blok A en Blok B</a>
             </menu>
         </div>
             <!--This is the main the mid and biggest part of the website -->
@@ -61,7 +62,7 @@
             <!--This is the footer the bottom and a small part of the website -->
         <div class="part4">
             <footer>
-                <p>Copyright| Student: Nathan van den Heuvel |Jaar van maak: 2022</p>
+                <p>Copyright | Student: Nathan van den Heuvel | Jaar van maak: 2022</p>
             </footer>
         </div>
     </div>
