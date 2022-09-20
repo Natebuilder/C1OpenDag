@@ -7,10 +7,10 @@
     <link rel="stylesheet" href="css/style.css">
     <title>Opendag Software Developer</title>
     <style>
-        .item1 { grid-area: header; }
-        .item2 { grid-area: menu; }
-        .item3 { grid-area: main; }
-        .item5 { grid-area: footer; }
+        .part1 { grid-area: header; }
+        .part2 { grid-area: menu; }
+        .part3 { grid-area: main; }
+        .part4 { grid-area: footer; }
 
         .grid-container {
         display: grid;
@@ -37,24 +37,35 @@
     <!--This class is a layout that control how the page look like -->
     <div class ="layout">
     <!--This is the header the top and small part of the website -->
-        <header>
-            <nav>
-                <div class="Top">
-                    <div class="img1"><img src="img/Curio Logo.png" alt="Logo"></div>
-                    <a href="#Curio">Opendag Software Developer 350</a>
-                </div>
-            </nav>
-        </header>
-        <!--This is the main the mid and biggest part of the website -->
-        <main>
-            <h1>Welkom op de website van Curio Software Developer editie.</h1>
-            <div class="img2"><img src="img/School.jpg" alt="school"></div>
-        </main>
-        <!--This is the footer the bottom and a small part of the website -->
-        <footer>
-            <p>Copyright| Student: Nathan van den Heuvel |Jaar van maak: 2022</p>
-        </footer>
+        <div class="part1">
+            <header>
+                <nav>
+                    <div class="Top">
+                        <div class="img1"><img src="img/Curio Logo.png" alt="Logo"></div>
+                        <a href="#Curio">Opendag Software Developer 350</a>
+                    </div>
+                </nav>
+            </header>
+        </div>
+        <!--This is the menu-->
+        <div class="part2">
+            <menu>
+
+            </menu>
+        </div>
+            <!--This is the main the mid and biggest part of the website -->
+        <div class="part3">
+            <main>
+                <h1>Welkom op de website van Curio Software Developer editie.</h1>
+                <div class="img2"><img src="img/School.jpg" alt="school"></div>
+            </main>
+        </div>
+            <!--This is the footer the bottom and a small part of the website -->
+        <div class="part4">
+            <footer>
+                <p>Copyright| Student: Nathan van den Heuvel |Jaar van maak: 2022</p>
+            </footer>
+        </div>
     </div>
-    
 </body>
 </html>
