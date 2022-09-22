@@ -37,10 +37,20 @@ menu{
 main{
     background-color: #fee50b;
 }
+.main-layout{
+    margin:1.15em;
+    display:grid;
+    height:100%;
+    grid-template-columns: 1fr 1fr;
+}
 main h1{
     margin-left:2.6%;
+    margin-top:5%;
+    margin-bottom:5%;
 }
 main img{
+    margin-top:5%;
+    margin-bottom:5%;
     margin-left:2.7%;
     max-width: 25%;
 }

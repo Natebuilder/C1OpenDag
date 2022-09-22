@@ -9,30 +9,30 @@
 </head>
 <!-- The body is the whole page-->
 <body>
-    <!--This class is a layout that control how the page look like -->
-    <div class ="layout">
-    <!--This is the header the top and small part of the website -->
-        <header>
-            <nav>
-                <img src="img/Curio Logo.png" alt="Logo">
-                <h1>Opendag Software Developer 350</h1>
-            </nav>
-        </header>
-    <!--This is the menu-->
-        <menu>
-            <h1>menu</h1>
-            <a href="#blok">Blok A en Blok B</a>
-        </menu>
-    
-        <!--This is the main the mid and biggest part of the website -->
-        <main>
-            <h1>Welkom op de website van Curio Software Developer editie.</h1>
+<!--This class is a layout that control how the page look like -->
+
+<!--This is the header the top and small part of the website -->
+    <header>
+        <nav>
+            <img src="img/Curio Logo.png" alt="Logo">
+            <h1>Opendag Software Developer 350</h1>
+        </nav>
+    </header>
+<!--This is the menu-->
+    <menu>
+        <h1>menu</h1>
+        <a href="#blok">Blok A en Blok B</a>
+    </menu>
+    <!--This is the main the mid and biggest part of the website -->
+    <main>
+        <div class="main-layout">
+            <h1>Welkom op de website van Curio Software Developer.</h1>
             <img src="img/School.jpg" alt="school">
-        </main>
-        <!--This is the footer the bottom and a small part of the website -->
-        <footer>
-            <p>Copyright | Student: Nathan van den Heuvel | Jaar van maak: 2022</p>
-        </footer>
-    </div>
+        </div>
+    </main>
+    <!--This is the footer the bottom and a small part of the website -->
+    <footer>
+        <p>Student: Nathan van den Heuvel | Jaar van maak: 2022</p>
+    </footer>
 </body>
 </html>
