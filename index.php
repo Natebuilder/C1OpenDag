@@ -27,9 +27,9 @@
     <main>
         <h1>Welkom op de website van Curio Software Developer.</h1>
         <div class="main-layout">
-            <p>De school voor Mbo and Vmbo.<br> Op deze website vind je informatie
+            <h2>De school voor Mbo and Vmbo.<br> Op deze website vind je informatie
             <br>over de opleiding Software Developer<br> dat relevant is voor als je aan 
-            het eerste <br>jaar gaat beginnen in voor nu februari.</p>
+            het <br>eerste jaar gaat beginnen in voor <br>nu februari.</h2>
             <img src="img/School.jpg" alt="school">
         </div>
     </main>

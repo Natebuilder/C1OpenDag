@@ -66,21 +66,26 @@ main{
     padding-top: 2em;
     padding-bottom: 1.4em;
 }
+main h1{
+    margin-top:auto;
+    margin-left:2.6%;
+    margin-bottom:6%;
+}
 .main-layout{
     display:grid;
     height:100%;
     grid-template-columns: 1fr 1fr ;
-}
-main h1{
-    margin-top:auto;
     margin-left:2.6%;
-    margin-bottom:5%;
 }
-main img{
-    margin-top:5%;
+.main-layout img{
     margin-bottom:5%;
-    margin-left:2.7%;
-    max-width: 50%;
+    margin-right: 5%;
+    max-width: 68%;
+}
+.main-layout h2{
+    margin-bottom:5%;
+    max-width: 60%;
+    font-weight: 100;
 }
 footer{
     background-color: #0b02bc;
