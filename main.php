@@ -100,7 +100,7 @@
                 hebben.
             </h2>
             <div class="bold">
-                <h2>studieloopbaanbegeleiding</h2>
+                <h2>Studieloopbaanbegeleiding</h2>
             </div>
             <div class="bold">
                 <h2>portfolio</h2>
@@ -113,7 +113,7 @@
                 maar dan indivueel alleen met je SLB(studieloopbaanbegeleider)dus.
             </h2>
             <div class="bold">
-                <h2>praktijkondersteuning</h2>
+                <h2>Praktijkondersteuning</h2>
             </div>
             <h2></h2>
             <h2>Praktijkondersteuning leer je vaardigheden die je kan helpen of je praktijk opdrachten beter te maken.
@@ -123,4 +123,25 @@
                 <img src="img/scrum.png" alt="scrum">
             </div>
         </div>
+        <h1>Rooster leerjaar 1</h1>
+        <div class="main-layout">
+            <h2>Dit is het rooster van het eerste leerjaar blok A.</h2>
+            <h2></h2>
+            <div class="img4">
+                <img src="img/rooster.png" alt="rooster">
+            </div>
+        </div>
+        <h1>Versnellen</h1>
+        <div class="main-layout">
+            <h2>Dit is niet lastig om simpel weg uit te leggen. Als het blijkt
+                dat je alles snel en goed begrijpt en uitvoert kan je er voor kiezen
+                om het versnelde opleiding te doen. Wat hier anders aan is dat je meer 
+                werk en 1 keer krijgt. Het klinkt vervelend maar hierdoor kan je de 
+                opleidng in 3 jaar halen in plaats van 4 jaar.
+            </h2>
+            <div class="img5">
+                <img src="img/klok.jpg" alt="klok">
+            </div>
+        </div>
+        <h1>Smoelenboek</h1>
     </main>

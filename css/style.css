@@ -96,6 +96,12 @@ main h1{
 .img3 img{
     max-width: 40%;
 }
+.img4 img{
+    max-width: 100%;
+}
+.img5 img{
+    max-width: 65%;
+}
 .bold h2{
     font-weight: bold;
 }
