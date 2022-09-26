@@ -33,6 +33,24 @@ nav h1{
 }
 menu{
     background-color: #b5ff08;
+    padding-top: 2px;
+    padding-bottom: 2.2em;
+}
+menu a:link{
+    text-decoration: none;
+    color:#0026ff;
+}
+menu a:visited{
+    text-decoration: none;
+    color:#0026ff;
+}
+menu a:hover{
+    text-decoration: none;
+    color:#bf00ff;
+}
+menu a:active{
+    text-decoration: none;
+    color:#bf00ff;
 }
 main{
     background-color: #fee50b;
@@ -52,7 +70,7 @@ main img{
     margin-top:5%;
     margin-bottom:5%;
     margin-left:2.7%;
-    max-width: 25%;
+    max-width: 50%;
 }
 footer{
     background-color: #0b02bc;
