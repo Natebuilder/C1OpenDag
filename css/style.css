@@ -87,6 +87,9 @@ main h1{
     max-width: 60%;
     font-weight: 100;
 }
+.bold h2{
+    font-weight: bold;
+}
 footer{
     background-color: #0b02bc;
     padding-top: 1em;
