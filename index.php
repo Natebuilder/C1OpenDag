@@ -20,13 +20,16 @@
     </header>
 <!--This is the menu-->
     <menu>
-        <h1>menu</h1>
+        <h1>Menu</h1>
         <a href="#blok">Blok A en Blok B</a>
     </menu>
     <!--This is the main the mid and biggest part of the website -->
     <main>
+        <h1>Welkom op de website van Curio Software Developer.</h1>
         <div class="main-layout">
-            <h1>Welkom op de website van Curio Software Developer.</h1>
+            <p>De school voor Mbo and Vmbo.<br> Op deze website vind je informatie
+            <br>over de opleiding Software Developer<br> dat relevant is voor als je aan 
+            het eerste <br>jaar gaat beginnen in voor nu februari.</p>
             <img src="img/School.jpg" alt="school">
         </div>
     </main>
