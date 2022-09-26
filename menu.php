@@ -8,4 +8,5 @@
     <a href="#Stp">Studieloopbaanbegeleiding en Portfolio</a><br>
     <a href="#Prako">Praktijkondersteuning</a><br>
     <a href="#Rooster">Rooster</a><br>
+    <a href="#smoelenboek">smoelenboek</a><br>
 </menu>

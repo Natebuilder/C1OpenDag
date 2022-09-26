@@ -144,4 +144,37 @@
             </div>
         </div>
         <h1>Smoelenboek</h1>
+        <div class="main-layout">
+            <h2>Dit is een kleine smoelenboek. Foto's gemaakt door docenten van 
+                studenten en docenten. Deze foto's bevinden zich in de sector techniek en
+                technologie. 
+            </h2>
+            <h2></h2>
+            <div class="img6">
+                <img src="img/smoel1.jpg" alt="smoel1">
+            </div>
+            <h2>Dit zijn bijvoorbeeld 2 studenten die een kast in elkaar aan het zetten zijn.
+                Zij hebben eigen een computer met alle benodigde onderdelen erin. Het voordeel 
+                van een kast is dat je van alles kan aanpassen wanneer je wilt. Je kan dat niet 
+                doen met een laptop. Het nadeel is je kan het moeilijker meenemen. Je kan dit doen 
+                bij Medewerker ICT Niv 3
+            </h2>
+            <h2>
+                Dit is een andere vorm van techniek. Hier bewerkt een studenten hout in kasten trappen
+                ladders noem maar op. En daarbij hij je kettingzagen nodig, schroeven of spijkers om 
+                uiteindelijk zo'n eindproduct te maken. Hiervoor volg je de houtbewerkingsopleiding.
+            </h2>
+            <div class="img7">
+                <img src="img/smoel2.jpg" alt="smoel2">
+            </div>
+            <div class="img8">
+                <img src="img/smoel3.jpg" alt="smoel3">
+            </div>
+            <h2>
+                Hier zie je studenten werken aan een helicopter. Ze werken zoals we op het plaatje zien 
+                aan de boven kant de propeller die ervoor zorgt dat de helicopter gaat vliegen. Deze afbeelding 
+                valt onder de opleiding vliegtuigntechniek.
+            </h2>
+        </div>
+            
     </main>
