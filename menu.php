@@ -1,6 +1,7 @@
 <menu>
     <h1>Menu</h1>
     <a href="#blok">Blok A en Blok B</a><br>
+    <a href="#Vak">Vakken</a><br>
     <a href="#Neb">Native en Web</a><br>
     <a href="#Neng">Nederlands en Engels</a><br>
     <a href="#Rep">Rekenen en Praktijk</a><br>

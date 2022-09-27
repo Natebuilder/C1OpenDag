@@ -6,7 +6,7 @@
             het <br>eerste jaar gaat beginnen in voor <br>nu februari.</h2>
             <img src="img/School.jpg" alt="school">
             <div class="bold">
-                <h2>Blok A</h2>
+                <h2 id=blok>Blok A</h2>
             </div>
             <div class="bold">
                 <h2>Blok B</h2>
@@ -26,10 +26,10 @@
                 zou je meer uit te kast moeten halen om de feedbackmomenten te halen.
             </h2>
         </div>
-        <h1>Vakken van deze opleiding</h1>
+        <h1 id=Vak>Vakken van deze opleiding</h1>
         <div class="main-layout">
             <div class="bold">
-                <h2>Native</h2>
+                <h2 id=Neb>Native</h2>
             </div>
             <div class="bold">
                 <h2>Web</h2>
@@ -55,7 +55,7 @@
                 <img src="img/php.png" alt="php">
             </div>
             <div class="bold">
-                <h2>Nederlands</h2>
+                <h2 id=Neng>Nederlands</h2>
             </div>
             <div class="bold">
                 <h2>Engels</h2>
@@ -71,7 +71,7 @@
                 in het vak om in Engels nog beter te worden.
             </h2>
             <div class="bold">
-                <h2>Rekenen</h2>
+                <h2 id=Rep>Rekenen</h2>
             </div>
             <div class="bold">
                 <h2>Praktijk</h2>
@@ -86,7 +86,7 @@
                 of alleen Web of beide.
             </h2>
             <div class="bold">
-                <h2>Algo</h2>
+                <h2 id=Alk>Algo</h2>
             </div>
             <div class="bold">
                 <h2>Keuzedelen</h2>
@@ -100,7 +100,7 @@
                 hebben.
             </h2>
             <div class="bold">
-                <h2>Studieloopbaanbegeleiding</h2>
+                <h2 id=Stp>Studieloopbaanbegeleiding</h2>
             </div>
             <div class="bold">
                 <h2>portfolio</h2>
@@ -113,7 +113,7 @@
                 maar dan indivueel alleen met je SLB(studieloopbaanbegeleider)dus.
             </h2>
             <div class="bold">
-                <h2>Praktijkondersteuning</h2>
+                <h2 id=Prako>Praktijkondersteuning</h2>
             </div>
             <h2></h2>
             <h2>Praktijkondersteuning leer je vaardigheden die je kan helpen of je praktijk opdrachten beter te maken.
@@ -123,7 +123,7 @@
                 <img src="img/scrum.png" alt="scrum">
             </div>
         </div>
-        <h1>Rooster leerjaar 1</h1>
+        <h1 id=Rooster>Rooster leerjaar 1</h1>
         <div class="main-layout">
             <h2>Dit is het rooster van het eerste leerjaar blok A.</h2>
             <h2></h2>
@@ -143,7 +143,7 @@
                 <img src="img/klok.jpg" alt="klok">
             </div>
         </div>
-        <h1>Smoelenboek</h1>
+        <h1 id=smoelenboek>Smoelenboek</h1>
         <div class="main-layout">
             <h2>Dit is een kleine smoelenboek. Foto's gemaakt door docenten van 
                 studenten en docenten. Deze foto's bevinden zich in de sector techniek en
